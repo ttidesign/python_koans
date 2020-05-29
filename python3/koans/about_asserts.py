@@ -63,7 +63,7 @@ class AboutAsserts(Koan):
         # For example, contemplate the text string "navel". What is its class type?
         # The koans runner will include this feedback for this koan:
         #
-        #   AssertionError: '-=> FILL ME IN! <=-' != <type 'str'>
+        #   AssertionError: '-=> True <=-' != <type 'str'>
         #
         # So "navel".__class__ is equal to <type 'str'>? No not quite. This
         # is just what it displays. The answer is simply str.
